@@ -1,10 +1,10 @@
 # eval-gittuto
 Projet r√©alis√© dans le cadre de l'√©valuation Git
 01 Nom:FLIELLER
-01 Pr√©nom:
+01 PrÈnom:Jean-Baptiste 
 02 Nom:PERROTIN
-02 Pr√©nom:Louis
+02 PrÈnom:Louis
 03 Nom:MOULINAS
-03 Pr√©nom:Adrien
+03 PrÈnom:Adrien
 04 Nom:FALCON
-04 Pr√©nom:Flore
+04 PrÈnom:Flore
